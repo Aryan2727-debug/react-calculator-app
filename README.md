@@ -1,7 +1,6 @@
 # react-calculator-app
 
-<img width="154" alt="image" src="![calculator](https://user-images.githubusercontent.com/78311368/196020439-a21ba9a6-fddc-4c53-813c-95a2006675a9.PNG)
-">
+<img width="154" alt="image" src="https://user-images.githubusercontent.com/78311368/196020439-a21ba9a6-fddc-4c53-813c-95a2006675a9.PNG">
 
 <br><br>
 
